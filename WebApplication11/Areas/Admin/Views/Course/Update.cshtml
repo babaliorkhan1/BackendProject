@@ -1,0 +1,180 @@
+﻿@model Course
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="alert alert-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <input type="text" class="form-control" asp-for="Description" />
+            <span class="text text-danger" asp-validation-for="Description"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Link"></label>
+            <input type="text" class="form-control" asp-for="Link" />
+            <span class="text text-danger" asp-validation-for="Link"></span>
+
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input type="text" class="form-control" asp-for="Name" />
+            <span class="text text-danger" asp-validation-for="Name"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="AboutText"></label>
+            <input type="text" class="form-control" asp-for="AboutText" />
+            <span class="text text-danger" asp-validation-for="AboutText"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="AboutCourseTitle"></label>
+            <input type="text" class="form-control" asp-for="AboutCourseTitle" />
+            <span class="text text-danger" asp-validation-for="AboutCourseTitle"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AboutCourseText"></label>
+            <input type="text" class="form-control" asp-for="AboutCourseText" />
+            <span class="text text-danger" asp-validation-for="AboutCourseText"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AboutApplyTitle"></label>
+            <input type="text" class="form-control" asp-for="AboutApplyTitle" />
+            <span class="text text-danger" asp-validation-for="AboutApplyTitle"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AboutApplyText"></label>
+            <input type="text" class="form-control" asp-for="AboutApplyText" />
+            <span class="text text-danger" asp-validation-for="AboutApplyText"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AboutCertificationTItle"></label>
+            <input type="text" class="form-control" asp-for="AboutCertificationTItle" />
+            <span class="text text-danger" asp-validation-for="AboutCertificationTItle"></span>
+
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="AboutCertificationText"></label>
+            <input type="text" class="form-control" asp-for="AboutCertificationText" />
+            <span class="text text-danger" asp-validation-for="AboutCertificationText"></span>
+
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="AboutCertificationText"></label>
+            <input type="text" class="form-control" asp-for="AboutCertificationText" />
+            <span class="text text-danger" asp-validation-for="AboutCertificationText"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Start"></label>
+            <input type="text" class="form-control" asp-for="Start" />
+            <span class="text text-danger" asp-validation-for="Start"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Duration"></label>
+            <input type="text" class="form-control" asp-for="Duration" />
+            <span class="text text-danger" asp-validation-for="Duration"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ClassDuration"></label>
+            <input type="text" class="form-control" asp-for="ClassDuration" />
+            <span class="text text-danger" asp-validation-for="ClassDuration"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="SkillLevel"></label>
+            <input type="text" class="form-control" asp-for="SkillLevel" />
+            <span class="text text-danger" asp-validation-for="SkillLevel"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="StudentNumbers"></label>
+            <input type="text" class="form-control" asp-for="StudentNumbers" />
+            <span class="text text-danger" asp-validation-for="StudentNumbers"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Language"></label>
+            <input type="text" class="form-control" asp-for="Language" />
+            <span class="text text-danger" asp-validation-for="Language"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Assetments"></label>
+            <input type="text" class="form-control" asp-for="Assetments" />
+            <span class="text text-danger" asp-validation-for="Assetments"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Result"></label>
+            <input type="text" class="form-control" asp-for="Result" />
+            <span class="text text-danger" asp-validation-for="Result"></span>
+
+        </div>
+
+        <div class="form-group">
+            <select multiple asp-for="CategoryIds" class="form-select" aria-label="Disabled select example">
+                <option>Choose category</option>
+                @foreach (var item in ViewBag.Categories)
+                {
+                    @if (Model.CourseCategories.Any(x => x.CategoryId == item.Id))
+                    {
+                        <option selected value="@item.Id">@item.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@item.Id">@item.Name</option>
+
+                    }
+                }
+
+            </select>
+            <span class="text text-danger" asp-validation-for="CategoryIds"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="FormFile"></label>
+            <input accept="image/*" type="file" class="form-control" asp-for="FormFile" />
+            <span class="text text-danger" asp-validation-for="FormFile"></span>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="FormFile1"></label>
+            <input accept="image/*" type="file" class="form-control" asp-for="FormFile1" />
+            <span class="text text-danger" asp-validation-for="FormFile1"></span>
+
+        </div>
+
+
+        @Html.AntiForgeryToken()
+        <button type="submit">Update</button>
+    </form>
+</div>
+
+

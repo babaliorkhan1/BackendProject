@@ -1,0 +1,27 @@
+﻿@model Course
+
+
+
+@foreach (var item in Model.CourseCategories)
+{
+
+    <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="single-course">
+            <div class="course-img">
+                <a>
+                    <img src="~/img/course/@item.Category.Image" alt="course">
+                    <div class="course-hover">
+                        <i class="fa fa-link"></i>
+                    </div>
+                </a>
+            </div>
+            <div class="course-content">
+                <h3><a href="course-details.html">@item.Category.Name</a></h3>
+                <p>@item.Category.Description</p>
+                <a class="default-btn" asp-controller="course" asp-action="detail" asp-route-Id="@Model.Id">Read more</a>
+            </div>
+        </div>
+    </div>
+} 
+
+

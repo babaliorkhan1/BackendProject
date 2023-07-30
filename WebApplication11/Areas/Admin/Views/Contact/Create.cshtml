@@ -1,0 +1,30 @@
+﻿@model Contact
+
+
+<div class="container">
+    <form method="post" >
+        <div asp-validation-summary="ModelOnly"></div>
+
+        <div class="form-group">
+            <label asp-for="Adress"></label>
+            <input type="text" class="form-control" asp-for="Adress" />
+            <span class="text text-danger" asp-validation-for="Adress"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNumber"></label>
+            <input type="text" class="form-control" asp-for="PhoneNumber" />
+            <span class="text text-danger" asp-validation-for="PhoneNumber"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Relations"></label>
+            <input type="text" class="form-control" asp-for="Relations" />
+            <span class="text text-danger" asp-validation-for="Relations"></span>
+
+        </div>
+       
+        @Html.AntiForgeryToken()
+        <button type="submit">Create</button>
+    </form>
+</div>

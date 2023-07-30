@@ -1,0 +1,1129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication11.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication11.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\et-line-icon.css",
+      "PackagePath": "staticwebassets\\css\\et-line-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\about\\0d5bb741-660a-4e67-bdfa-962138394365about (1).png",
+      "PackagePath": "staticwebassets\\img\\about\\0d5bb741-660a-4e67-bdfa-962138394365about (1).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\about\\1ccbda3a-a377-4bf2-b755-510576bf08daabout (1).png",
+      "PackagePath": "staticwebassets\\img\\about\\1ccbda3a-a377-4bf2-b755-510576bf08daabout (1).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\img\\about\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\about\\d8156177-5c09-4318-9591-8c0bf891c404about.png",
+      "PackagePath": "staticwebassets\\img\\about\\d8156177-5c09-4318-9591-8c0bf891c404about.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog-img.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\blog\\blog9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\choose\\choose-bd.jpg",
+      "PackagePath": "staticwebassets\\img\\choose\\choose-bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\choose\\choose.png",
+      "PackagePath": "staticwebassets\\img\\choose\\choose.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\contact\\contact1.png",
+      "PackagePath": "staticwebassets\\img\\contact\\contact1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\contact\\contact2.png",
+      "PackagePath": "staticwebassets\\img\\contact\\contact2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\contact\\contact3.png",
+      "PackagePath": "staticwebassets\\img\\contact\\contact3.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\0b3bd6b2-10de-4450-847f-2f809c6bd225course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\0b3bd6b2-10de-4450-847f-2f809c6bd225course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\11fd6ed1-55cb-4222-8d7d-836850293576course1.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\11fd6ed1-55cb-4222-8d7d-836850293576course1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\15ed3354-6aee-4ff9-aae7-b7067d3c3acfcourse1.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\15ed3354-6aee-4ff9-aae7-b7067d3c3acfcourse1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\1980892c-ea1a-4688-8b89-658cc90dc50bcourse3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\1980892c-ea1a-4688-8b89-658cc90dc50bcourse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\2ca2f75a-1b07-4bf0-acaa-bedff21d863dcourse3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\2ca2f75a-1b07-4bf0-acaa-bedff21d863dcourse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\32920b95-f596-416a-b443-6964e37409fecourse3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\32920b95-f596-416a-b443-6964e37409fecourse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\3ae753f9-99de-4ce4-baab-ebb6e6049ab1course2.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\3ae753f9-99de-4ce4-baab-ebb6e6049ab1course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\4966b2a1-94a7-453c-b314-bb0f40d00c9ccourses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\4966b2a1-94a7-453c-b314-bb0f40d00c9ccourses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\50b36cfb-0518-4ae3-86ac-f3f99322d6c1course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\50b36cfb-0518-4ae3-86ac-f3f99322d6c1course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\570f6ecf-31f6-4f46-bb71-994b892eac83course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\570f6ecf-31f6-4f46-bb71-994b892eac83course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\5d9014d0-c6ca-4e20-879a-7da491d2aef6course2.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\5d9014d0-c6ca-4e20-879a-7da491d2aef6course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\5f8b873f-57c0-445e-91cd-4397c9fefa07course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\5f8b873f-57c0-445e-91cd-4397c9fefa07course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\6899b326-ac4d-45ae-8c47-834fd1c048a8courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\6899b326-ac4d-45ae-8c47-834fd1c048a8courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\81eccf06-3aef-41b2-855c-390fadc7c3e2courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\81eccf06-3aef-41b2-855c-390fadc7c3e2courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\89e2071f-16fe-46cf-8564-98b3f358eb36images (1).jpg",
+      "PackagePath": "staticwebassets\\img\\course\\89e2071f-16fe-46cf-8564-98b3f358eb36images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\9045a45a-c346-4217-bba1-3ed6672da350courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\9045a45a-c346-4217-bba1-3ed6672da350courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\99cc183c-fab7-4ac7-84c6-5e5a82b933d0course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\99cc183c-fab7-4ac7-84c6-5e5a82b933d0course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\9c876357-c7ba-456c-812a-8543984b98bccourse3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\9c876357-c7ba-456c-812a-8543984b98bccourse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\9d883464-101f-476f-85d2-bc22ac2c5681course1.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\9d883464-101f-476f-85d2-bc22ac2c5681course1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\b0f42a9d-c1a2-4a8b-8572-eb22fa9140bdcourses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\b0f42a9d-c1a2-4a8b-8572-eb22fa9140bdcourses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\b1c7eea3-cc67-4441-a99d-008ec6e9925fcourse1.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\b1c7eea3-cc67-4441-a99d-008ec6e9925fcourse1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\b3267af2-26c8-4579-b383-108d361c7716course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\b3267af2-26c8-4579-b383-108d361c7716course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\b43ecadd-1eb3-4369-8266-efaecd0653e8courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\b43ecadd-1eb3-4369-8266-efaecd0653e8courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\b5df66b4-dbbe-4ec3-8c9d-74308c0fdf50courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\b5df66b4-dbbe-4ec3-8c9d-74308c0fdf50courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\bcca74e3-726a-4bfc-b666-22712245cfeecourse3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\bcca74e3-726a-4bfc-b666-22712245cfeecourse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\bdd68eb3-0ff2-42dd-b4eb-50c41287e5d5course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\bdd68eb3-0ff2-42dd-b4eb-50c41287e5d5course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\cc6e3b71-0dcb-4af8-b3ef-2f5c874f405acourse2.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\cc6e3b71-0dcb-4af8-b3ef-2f5c874f405acourse2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course1.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course2.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course4.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course5.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course6.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course7.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course8.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\course9.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\course9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\d987bd57-278f-4491-8aca-9d743247580bimages (1).jpg",
+      "PackagePath": "staticwebassets\\img\\course\\d987bd57-278f-4491-8aca-9d743247580bimages (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\f1f41c29-c46d-4f61-9876-f442c6068b19course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\f1f41c29-c46d-4f61-9876-f442c6068b19course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\f3a383da-8b7a-4510-b9a9-210ac0dc23d0courses-details.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\f3a383da-8b7a-4510-b9a9-210ac0dc23d0courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\f4cfb5ca-ffa1-4ab8-94d4-ec152a94eee7course2.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\f4cfb5ca-ffa1-4ab8-94d4-ec152a94eee7course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\f4ff24c8-6e84-4bc0-9bbd-d7866d8b7d01course1.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\f4ff24c8-6e84-4bc0-9bbd-d7866d8b7d01course1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\f674083a-0232-4bae-b3df-48f7d1386235course2.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\f674083a-0232-4bae-b3df-48f7d1386235course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\course\\fc0ebe64-94ae-4dcb-b7ba-6149b21270c6course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\fc0ebe64-94ae-4dcb-b7ba-6149b21270c6course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event-details.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event1.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event10.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event11.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event12.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event13.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event2.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event3.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event5.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event6.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event7.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event8.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\event9.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\event9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\speaker1.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\speaker1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\event\\speaker2.jpg",
+      "PackagePath": "staticwebassets\\img\\event\\speaker2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\footer\\footer1.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\footer1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\footer\\footer2.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\footer2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\footer\\footer3.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\footer3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\footer\\footer4.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\footer4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\icon\\section.png",
+      "PackagePath": "staticwebassets\\img\\icon\\section.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\icon\\section1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\section1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\logo\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\notice\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\notice\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\post\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\post\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\post\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\4aaa67df-43a2-4bc0-987e-2e45cbbba517download (6).jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\4aaa67df-43a2-4bc0-987e-2e45cbbba517download (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\5dbc572d-7e25-4d4a-9e43-1364d032bea5download (7).jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\5dbc572d-7e25-4d4a-9e43-1364d032bea5download (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\d5d36f24-be87-4c6e-8895-3a72392812b4images (1).jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\d5d36f24-be87-4c6e-8895-3a72392812b4images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\f93cc33a-a30a-48f5-82cc-da9b5883de6bdownload (6).jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\f93cc33a-a30a-48f5-82cc-da9b5883de6bdownload (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\home.png",
+      "PackagePath": "staticwebassets\\img\\slider\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\24cebe5c-59e9-4df7-87b1-f3b55019e74bdownload (2).jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\24cebe5c-59e9-4df7-87b1-f3b55019e74bdownload (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\26a1f8ed-6743-4269-9ee4-14e297cbdc67download (5).jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\26a1f8ed-6743-4269-9ee4-14e297cbdc67download (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\2c83501b-d10e-470d-8f09-a822b9f64ac9download (8).jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\2c83501b-d10e-470d-8f09-a822b9f64ac9download (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\8c9ad53b-21a7-4fab-8dba-6d7c8b5eab04download (5).jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\8c9ad53b-21a7-4fab-8dba-6d7c8b5eab04download (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\9d18bf1e-6902-4f7d-b77c-f1508fe5fff5download (4).jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\9d18bf1e-6902-4f7d-b77c-f1508fe5fff5download (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\a65b8e8f-c791-4d7e-80f5-7a45dc0f19b8download (5).jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\a65b8e8f-c791-4d7e-80f5-7a45dc0f19b8download (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher-details.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher1.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher10.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher11.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher12.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher2.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher3.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher4.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher5.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher6.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher7.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher8.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\teacher\\teacher9.jpg",
+      "PackagePath": "staticwebassets\\img\\teacher\\teacher9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\testimonial\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\img\\testimonial\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\vendor\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\WebApplication11\\WebApplication11\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication11.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication11.props",
+      "PackagePath": "build\\WebApplication11.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication11.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication11.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication11.props",
+      "PackagePath": "buildTransitive\\WebApplication11.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

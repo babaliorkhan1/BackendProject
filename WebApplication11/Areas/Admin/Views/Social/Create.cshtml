@@ -1,0 +1,41 @@
+﻿@model Social
+
+
+<div class="container">
+    <form method="post">
+        <div class="alert alert-danger" asp-validation-summary="ModelOnly"></div>
+
+        <div class="form-group">
+            <label asp-for="Link"></label>
+            <input type="text" class="form-control" asp-for="Link" />
+            <span class="text text-danger" asp-validation-for="Link"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Icon"></label>
+            <input type="text" class="form-control" asp-for="Icon" />
+            <span class="text text-danger" asp-validation-for="Icon"></span>
+
+        </div>
+
+
+       
+        <div class="form-group">
+            <select asp-for="TeacherId" class="form-select" aria-label="Disabled select example">
+                @foreach (var item in ViewBag.Teachers)
+                {
+                    <option>Choose category</option>
+                    <option value="@item.Id">@item.FullName</option>
+                }
+
+            </select>
+            <span class="text text-danger" asp-validation-for="TeacherId"></span>
+        </div>
+
+
+        
+       
+        @Html.AntiForgeryToken()
+        <button type="submit">Create</button>
+    </form>
+</div>

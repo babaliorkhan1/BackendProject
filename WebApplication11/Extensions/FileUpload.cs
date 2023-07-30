@@ -1,0 +1,18 @@
+﻿using System.Xml.Serialization;
+
+namespace WebApplication11.Extensions
+{
+    public static class FileUpload
+    {
+        public static string CreateImage(this IFormFile file,string root,string path)
+        {
+            string FileName=Guid.NewGuid().ToString()+file.FileName;    
+            string FullPath=Path.Combine(root,path,FileName);
+            using (FileStream fileStream = new FileStream(FullPath, FileMode.Create))
+            {
+                file.CopyTo(fileStream);    
+            };
+            return FileName;
+        }
+    }
+}
